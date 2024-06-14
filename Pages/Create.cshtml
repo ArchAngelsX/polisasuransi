@@ -1,0 +1,39 @@
+﻿@page
+@model CreateModel
+<h1>Create New Polis</h1>
+
+<form method="post">
+    <div>
+        <label asp-for="Polis.NamaTertanggung">Nama Tertanggung</label>
+        <input asp-for="Polis.NamaTertanggung" name="NamaTertanggung" />
+    </div>
+    <div>
+        <label asp-for="Polis.TanggalEfektif">Tanggal Efektif</label>
+        <input asp-for="Polis.TanggalEfektif" name="TanggalEfektif" />
+    </div>
+    <div>
+        <label asp-for="Polis.TanggalExpired">Tanggal Expired</label>
+        <input asp-for="Polis.TanggalExpired" name="TanggalExpired" />
+    </div>
+    <div>
+        <label asp-for="Polis.MerekKendaraan">Merek Kendaraan</label>
+        <input asp-for="Polis.MerekKendaraan" name="MerekKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.TipeKendaraan">Tipe Kendaraan</label>
+        <input asp-for="Polis.TipeKendaraan" name="TipeKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.TahunKendaraan">Tahun Kendaraan</label>
+        <input asp-for="Polis.TahunKendaraan" name="TahunKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.HargaKendaraan">Harga Kendaraan</label>
+        <input asp-for="Polis.HargaKendaraan" name="HargaKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.RatePremi">Rate Premi</label>
+        <input asp-for="Polis.RatePremi" name="RatePremi" />
+    </div>
+    <button type="submit">Create</button>
+</form>

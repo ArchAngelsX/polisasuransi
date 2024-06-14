@@ -1,0 +1,31 @@
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.csproj.AssemblyReference.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.AssemblyInfoInputs.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.AssemblyInfo.cs
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.csproj.CoreCompileInputs.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.RazorAssemblyInfo.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.RazorAssemblyInfo.cs
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.staticwebassets.runtime.json
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.exe
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.deps.json
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.runtimeconfig.json
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.dll
+D:\Visual Studio\asuransi polis\asuransi polis\bin\Debug\net6.0\asuransi polis.pdb
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets\msbuild.asuransi polis.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets\msbuild.build.asuransi polis.props
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.asuransi polis.props
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.asuransi polis.props
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\scopedcss\bundle\asuransi polis.styles.css
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\scopedcss\projectbundle\asuransi polis.bundle.scp.css
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.dll
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\refint\asuransi polis.dll
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.pdb
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\asuransi polis.genruntimeconfig.cache
+D:\Visual Studio\asuransi polis\asuransi polis\obj\Debug\net6.0\ref\asuransi polis.dll

@@ -1,0 +1,26 @@
+[
+  {
+    "NomorPolis": "POL-2023-001",
+    "NamaTertanggung": "John Cena",
+    "TanggalEfektif": "2023-01-01T00:00:00",
+    "TanggalExpired": "2024-01-01T00:00:00",
+    "MerekKendaraan": "Toyota",
+    "TipeKendaraan": "Avanza",
+    "TahunKendaraan": 2020,
+    "HargaKendaraan": 300000000,
+    "RatePremi": 0.0218,
+    "HargaPremi": 6540000
+  },
+  {
+    "NomorPolis": "POL-2023-002",
+    "NamaTertanggung": "Mary",
+    "TanggalEfektif": "2023-01-01T00:00:00",
+    "TanggalExpired": "2024-01-01T00:00:00",
+    "MerekKendaraan": "Honda",
+    "TipeKendaraan": "Civic",
+    "TahunKendaraan": 2019,
+    "HargaKendaraan": 250000000,
+    "RatePremi": 0.0218,
+    "HargaPremi": 5470000
+  }
+]

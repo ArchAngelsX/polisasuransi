@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+
+<h1>Polis List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nomor Polis</th>
+            <th>Nama Tertanggung</th>
+            <th>Periode</th>
+            <th>Nama Item</th>
+            <th>Harga Pertanggungan</th>
+            <th>Harga Premi</th>
+            <th>Aksi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.PolisList != null)
+        {
+            @foreach (var polis in Model.PolisList)
+            {
+                <tr>
+                    <td>@polis.NomorPolis</td>
+                    <td>@polis.NamaTertanggung</td>
+                    <td>@polis.TanggalEfektif?.ToString("dd MMM yyyy") - @polis.TanggalExpired?.ToString("dd MMM yyyy")</td>
+                    <td>@polis.MerekKendaraan - @polis.TipeKendaraan</td>
+                    <td>@polis.HargaKendaraan.ToString("C")</td>
+                    <td>@polis.HargaPremi.ToString("C")</td>
+                    <td>
+                        <a asp-page="Edit" asp-route-nomorPolis="@polis.NomorPolis">Edit</a> |
+                        <a asp-page="Delete" asp-route-nomorPolis="@polis.NomorPolis">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">No data available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="Create">Create New Polis</a>

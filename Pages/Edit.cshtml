@@ -1,0 +1,40 @@
+﻿@page
+@model EditModel
+
+<h1>Edit Polis</h1>
+
+<form method="post" asp-page-handler="Edit" asp-page="./Index">
+    <div>
+        <label asp-for="Polis.NamaTertanggung"></label>
+        <input asp-for="Polis.NamaTertanggung" />
+    </div>
+    <div>
+        <label asp-for="Polis.TanggalEfektif"></label>
+        <input asp-for="Polis.TanggalEfektif" />
+    </div>
+    <div>
+        <label asp-for="Polis.TanggalExpired"></label>
+        <input asp-for="Polis.TanggalExpired" />
+    </div>
+    <div>
+        <label asp-for="Polis.MerekKendaraan"></label>
+        <input asp-for="Polis.MerekKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.TipeKendaraan"></label>
+        <input asp-for="Polis.TipeKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.TahunKendaraan"></label>
+        <input asp-for="Polis.TahunKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.HargaKendaraan"></label>
+        <input asp-for="Polis.HargaKendaraan" />
+    </div>
+    <div>
+        <label asp-for="Polis.RatePremi"></label>
+        <input asp-for="Polis.RatePremi" />
+    </div>
+    <button type="submit">Update</button>
+</form>
